@@ -1,4 +1,4 @@
-student_name = "admin"
-city = "Hyderabad"
+student_name = "Sam"
+city = "Chennai"
 print(student_name)
 print(city)
